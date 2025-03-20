@@ -1,7 +1,7 @@
 # Detecting Moving Objects in DAS Recordings
 
 ## Project Overview
-This project focuses on developing an algorithm to detect and track moving objects in acoustic data collected from a Distributed Acoustic Sensing (DAS) system. The DAS system is attached to a fiber optic cable along Jana Pawla II Street, capturing vibrations caused by passing vehicles such as trams, trucks, and cars. The project was carried out during Computer Vision course on AI Vth sem on PUT.
+This project focuses on developing an algorithm to detect and track moving objects in acoustic data collected from a Distributed Acoustic Sensing (DAS) system. The DAS system is attached to a fiber optic cable along Jana Pawla II Street, capturing vibrations caused by passing vehicles such as trams, trucks, and cars.
 
 ## Methodology
 1. **Load Data**: Process 2D numpy matrix representing strain rate measurements along the fiber optic cable.
@@ -38,5 +38,5 @@ This project focuses on developing an algorithm to detect and track moving objec
 Distributed Acoustic Sensing (DAS) is a technology that converts optical fiber cables into highly sensitive vibration sensors by analyzing backscattered laser signals to detect strain variations.
 
 ---
-**Authors**: Piotr Balewski 156037, Kuba Czech 156035
+**Authors**: PBalewski, KubaCzech
 **Date**: December 2024
