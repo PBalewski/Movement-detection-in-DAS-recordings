@@ -3,6 +3,9 @@
 ## Project Overview
 This project focuses on developing an algorithm to detect and track moving objects in acoustic data collected from a Distributed Acoustic Sensing (DAS) system. The DAS system is attached to a fiber optic cable along Jana Pawla II Street, capturing vibrations caused by passing vehicles such as trams, trucks, and cars.
 
+## Results
+![Result](images/result.png)
+
 ## Methodology
 1. **Load Data**: Process 2D numpy matrix representing strain rate measurements along the fiber optic cable.
 2. **Noise Filtering**: Apply appropriate signal processing techniques to remove background noise.
